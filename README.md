@@ -53,4 +53,4 @@ Este proyecto ha sido construido utilizando las tecnologías más modernas del e
 
 ---
 
-Diseñado por **KOVR Global**. Domina la calle.
+Diseñado © 2025 **KOVR** by **Inspyrio**. Todos los derechos reservados.
